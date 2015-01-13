@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hacking a code is like to make a poem by programming language.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+I am a solo-programmer making websites and smartphone applications.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[@takiuchi](http://twpro.jp/takiuchi)
